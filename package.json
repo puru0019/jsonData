@@ -1,0 +1,19 @@
+{
+  "name": "jsondata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puru0019/jsonData.git"
+  },
+  "author": "Gopi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puru0019/jsonData/issues"
+  },
+  "homepage": "https://github.com/puru0019/jsonData#readme"
+}
